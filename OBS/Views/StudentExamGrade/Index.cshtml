@@ -1,0 +1,65 @@
+﻿@model IEnumerable<OBS.Entities.Tables.StudentExamGrade>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Öğrenci İşlemleri</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-sm btn-success">
+        <i class="fas fa-plus"></i> Kayıt Ekle
+    </a>
+</p>
+<table class="table">
+    <thead class="bg-dark text-light">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Student)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lesson.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vize)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Final)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Average)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student.NameSurname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lesson.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vize)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Final)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Average)
+                </td>
+                <td>
+                    <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.Id">
+                        <i class="fa fa-cog"></i> Güncelle
+                    </a>
+
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">
+                        <i class="fal fa-trash-alt"></i> Sil
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

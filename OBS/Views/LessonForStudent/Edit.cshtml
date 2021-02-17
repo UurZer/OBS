@@ -1,0 +1,38 @@
+﻿@model OBS.Entities.Model.LessonForStudentModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Güncelle</h1>
+
+<h4>Öğrenci</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="LessonForStudent.Id" />
+            <div class="form-group">
+                <label asp-for="LessonForStudent.StudentId" class="control-label"></label>
+                <select asp-for="LessonForStudent.StudentId" class="form-control" asp-items="Model.StudentList"></select>
+                <span asp-validation-for="LessonForStudent.StudentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LessonForStudent.LessonId" class="control-label"></label>
+                <select asp-for="LessonForStudent.LessonId" class="form-control" asp-items="Model.LessonList"></select>
+                <span asp-validation-for="LessonForStudent.LessonId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye Dön</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

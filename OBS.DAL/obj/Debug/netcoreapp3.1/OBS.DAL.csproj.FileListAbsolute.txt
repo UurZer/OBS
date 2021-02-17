@@ -1,0 +1,45 @@
+C:\Users\o\Desktop\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csprojAssemblyReference.cache
+C:\Users\o\Desktop\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.AssemblyInfoInputs.cache
+C:\Users\o\Desktop\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.AssemblyInfo.cs
+C:\Users\o\Desktop\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+C:\Users\o\Desktop\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.deps.json
+C:\Users\o\Desktop\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.runtimeconfig.json
+C:\Users\o\Desktop\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.runtimeconfig.dev.json
+C:\Users\o\Desktop\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+C:\Users\o\Desktop\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+C:\Users\o\Desktop\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+C:\Users\o\Desktop\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csproj.CopyComplete
+C:\Users\o\Desktop\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.dll
+C:\Users\o\Desktop\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.pdb
+C:\Users\o\Desktop\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.genruntimeconfig.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.deps.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.runtimeconfig.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.runtimeconfig.dev.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csprojAssemblyReference.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.AssemblyInfoInputs.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.AssemblyInfo.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csproj.CopyComplete
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.genruntimeconfig.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.deps.json
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.runtimeconfig.json
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.runtimeconfig.dev.json
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csprojAssemblyReference.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.AssemblyInfoInputs.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.AssemblyInfo.cs
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csproj.CoreCompileInputs.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.csproj.CopyComplete
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.DAL\obj\Debug\netcoreapp3.1\OBS.DAL.genruntimeconfig.cache

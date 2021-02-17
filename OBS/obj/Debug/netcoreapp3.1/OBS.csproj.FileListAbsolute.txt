@@ -1,0 +1,552 @@
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csprojAssemblyReference.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.AssemblyInfoInputs.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.AssemblyInfo.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorAssemblyInfo.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorAssemblyInfo.cs
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.exe
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.deps.json
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.runtimeconfig.json
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.runtimeconfig.dev.json
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.pdb
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Views.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Views.pdb
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\staticwebassets\OBS.StaticWebAssets.Manifest.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\staticwebassets\OBS.StaticWebAssets.xml
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\scopedcss\bundle\OBS.styles.css
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.TagHelpers.input.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.TagHelpers.output.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorCoreGenerate.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorTargetAssemblyInfo.cache
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorTargetAssemblyInfo.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.Views.pdb
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csproj.CopyComplete
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.dll
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.pdb
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.genruntimeconfig.cache
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Business.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Business.pdb
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Create.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Index.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\o\Desktop\OBS\OBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Create.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Index.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Create.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Edit.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Delete.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Edit.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Delete.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Edit.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Delete.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Index.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Create.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Delete.cshtml.g.cs
+C:\Users\o\Desktop\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Edit.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.exe
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.deps.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.runtimeconfig.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.runtimeconfig.dev.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Views.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Views.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Business.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Business.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csprojAssemblyReference.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.AssemblyInfoInputs.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.AssemblyInfo.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorAssemblyInfo.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorAssemblyInfo.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\staticwebassets\OBS.StaticWebAssets.Manifest.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\staticwebassets\OBS.StaticWebAssets.xml
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\scopedcss\bundle\OBS.styles.css
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.TagHelpers.input.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.TagHelpers.output.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorCoreGenerate.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Create.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Delete.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Edit.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Index.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Create.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Delete.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Edit.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Index.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Create.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Delete.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Edit.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Index.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Create.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Delete.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Edit.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorTargetAssemblyInfo.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorTargetAssemblyInfo.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.Views.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csproj.CopyComplete
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.genruntimeconfig.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.exe
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.deps.json
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.runtimeconfig.json
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.runtimeconfig.dev.json
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Views.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Views.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Business.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Business.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csprojAssemblyReference.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.AssemblyInfoInputs.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.AssemblyInfo.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csproj.CoreCompileInputs.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorAssemblyInfo.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorAssemblyInfo.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\staticwebassets\OBS.StaticWebAssets.Manifest.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\staticwebassets\OBS.StaticWebAssets.xml
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\scopedcss\bundle\OBS.styles.css
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.TagHelpers.input.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.TagHelpers.output.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorCoreGenerate.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Create.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Delete.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Edit.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\LessonForStudent\Index.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Create.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Delete.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Edit.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Index.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Create.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Delete.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Edit.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\StudentExamGrade\Index.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Create.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Delete.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Edit.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorTargetAssemblyInfo.cache
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.RazorTargetAssemblyInfo.cs
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.Views.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.csproj.CopyComplete
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.dll
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS\obj\Debug\netcoreapp3.1\OBS.genruntimeconfig.cache

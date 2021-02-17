@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OBS.DAL\OBS.DAL.csproj" />
+    <ProjectReference Include="..\OBS.Entities\OBS.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

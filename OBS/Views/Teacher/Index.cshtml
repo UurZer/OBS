@@ -1,0 +1,49 @@
+﻿@model IEnumerable<OBS.Entities.Tables.Teacher>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Öğretmen İşlemleri</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-sm btn-success">
+        <i class="fas fa-plus"></i> Kayıt Ekle
+    </a>
+</p>
+<table class="table">
+    <thead class="bg-dark text-light">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NameSurname)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tag)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NameSurname)
+                </td>
+                <td>
+                    <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.Id">
+                        <i class="fa fa-cog"></i> Güncelle
+                    </a>
+
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">
+                        <i class="fal fa-trash-alt"></i> Sil
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

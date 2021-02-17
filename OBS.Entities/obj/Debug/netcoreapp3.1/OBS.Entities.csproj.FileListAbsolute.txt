@@ -1,0 +1,18 @@
+C:\Users\o\Desktop\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.csprojAssemblyReference.cache
+C:\Users\o\Desktop\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.AssemblyInfoInputs.cache
+C:\Users\o\Desktop\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.AssemblyInfo.cs
+C:\Users\o\Desktop\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\OBS\OBS.Entities\bin\Debug\netcoreapp3.1\OBS.Entities.deps.json
+C:\Users\o\Desktop\OBS\OBS.Entities\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+C:\Users\o\Desktop\OBS\OBS.Entities\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+C:\Users\o\Desktop\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.dll
+C:\Users\o\Desktop\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\bin\Debug\netcoreapp3.1\OBS.Entities.deps.json
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.csprojAssemblyReference.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.AssemblyInfoInputs.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.AssemblyInfo.cs
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.csproj.CoreCompileInputs.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.Entities\obj\Debug\netcoreapp3.1\OBS.Entities.pdb

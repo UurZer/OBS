@@ -1,0 +1,61 @@
+﻿@model OBS.Entities.Tables.Student
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<p>
+    <a class="btn btn-sm btn-success text-light">
+        <i class="fas fa-plus"></i> Kayıt Ekle
+    </a>
+</p>
+
+<h4>Öğrenci</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.HiddenFor(sa => Model.RegiteredDate)
+            @Html.HiddenFor(sa => Model.Id)
+
+            <div class="form-group">
+                <label asp-for="NameSurname" class="control-label" >Adı Soyadı</label>
+                <input asp-for="NameSurname"  class="form-control" />
+                <span asp-validation-for="NameSurname" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="Grade" class="control-label">Sınıf</label>
+                <select asp-for="Grade" class="form-control" 
+                        asp-items="Html.GetEnumSelectList<OBS.Entities.Tables.GradeStudent>()"></select>
+                <span asp-validation-for="Grade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentNumber" class="control-label">Öğrenci Numarası</label>
+                <input asp-for="StudentNumber" readonly="readonly" class="form-control" />
+                <span asp-validation-for="StudentNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RegiteredDate" class="control-label">Kayıt Tarihi</label>
+                <input asp-for="RegiteredDate" readonly="readonly" class="form-control" />
+                <span asp-validation-for="RegiteredDate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye Dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

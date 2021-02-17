@@ -1,0 +1,42 @@
+C:\Users\o\Desktop\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csprojAssemblyReference.cache
+C:\Users\o\Desktop\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.AssemblyInfoInputs.cache
+C:\Users\o\Desktop\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.AssemblyInfo.cs
+C:\Users\o\Desktop\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.deps.json
+C:\Users\o\Desktop\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.dll
+C:\Users\o\Desktop\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.pdb
+C:\Users\o\Desktop\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+C:\Users\o\Desktop\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+C:\Users\o\Desktop\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csproj.CopyComplete
+C:\Users\o\Desktop\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.dll
+C:\Users\o\Desktop\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.pdb
+C:\Users\o\Desktop\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+C:\Users\o\Desktop\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.deps.json
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csprojAssemblyReference.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.AssemblyInfoInputs.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.AssemblyInfo.cs
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csproj.CopyComplete
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.dll
+C:\Users\o\Desktop\172119016_UgurOZER_WebProg\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.deps.json
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Business.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.DAL.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Entities.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.DAL.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\bin\Debug\netcoreapp3.1\OBS.Entities.pdb
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csprojAssemblyReference.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.AssemblyInfoInputs.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.AssemblyInfo.cs
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csproj.CoreCompileInputs.cache
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.csproj.CopyComplete
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.dll
+D:\C# Projeleri Asp.Net\OBS\OBS.Business\obj\Debug\netcoreapp3.1\OBS.Business.pdb

@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/Login.css" />
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+<div><div class="wrapper fadeInDown">
+    <div id="formContent">
+        <div class="fadeIn first">
+            <i class="fas fa-user fa-3x"  id="icon" alt="User Icon"></i>
+        </div>
+        <form action="/Login/Index" method="post">
+                <input type="text" id="login" class="fadeIn second" name="UserName" placeholder="Admin">
+                <input type="text" id="password" class="fadeIn third" name="Password" placeholder="Şifre">
+                <input type="submit" class="fadeIn fourth" value="Giriş">
+        </form>
+
+        <div id="formFooter">
+            <a class="underlineHover" href="#">Detaylı Bilgi</a>
+        </div>
+    </div>
+</div></div>
+
